@@ -6,4 +6,4 @@ If you think a paper should be part of this list, please submit a pull request. 
 ##<a>Contents</a>
  1.[spark sql](#spark_sql)
 ##<a name='spark_sql'>Spark SQL
-*[spark sql 整体理解](http://www.tuicool.com/articles/VZRBV3)
+* [spark sql 整体理解](http://www.tuicool.com/articles/VZRBV3)
