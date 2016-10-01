@@ -11,4 +11,4 @@ If you think a paper should be part of this list, please submit a pull request. 
 * [spark sql 整体理解](http://www.tuicool.com/articles/VZRBV3)
 
 ##<a name='data_storage'>Data Storage
-* [parquet 整体理解](http://www.infoq.com/cn/articles/in-depth-analysis-of-parquet-column-storage-format/)
+* [parquet:深入分析parquet存储格式](http://www.infoq.com/cn/articles/in-depth-analysis-of-parquet-column-storage-format/)
